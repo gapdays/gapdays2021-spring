@@ -1,0 +1,11 @@
+The next GAP Days will be held ONLINE from the 15th of February till the 19th of February 2021!
+
+These GAP Days will focus on the automation and GAP release overhaul.
+
+We will also include a small number of talks during the GAP Days about the GAP infrastructure and functionalities of GitHub.
+
+While we do not want to discourage non-GAP-core programmers, we want to underline that the focus will be on working the release system of GAP. There will be talks and some “hands-on” sessions to give everyone the opportunity to learn the tools needed that will be most likely utilised in the release process. For anyone who wants to attend but feels out of depth in this, we will be looking for testers and other higher level tasks.
+
+The whole event will be virtual, and held in CET/GMT time. We are in the process of finding the most appropriate systems.
+
+Announcements on registration and schedules will follow soon.
