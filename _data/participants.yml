@@ -1,0 +1,49 @@
+- name: Ruth Hoffmann
+  affiliation: University of St Andrews
+
+- name: Max Horn
+  affiliation: University of Siegen
+  links:
+    "GitHub: fingolfin": https://github.com/fingolfin
+    "slides": "../slides/Horn-Webpage-Infrastructure.pdf"
+
+- name: Chris Jefferson
+  affiliation: University of St Andrews
+  links:
+    "GitHub: ChrisJefferson": https://github.com/ChrisJefferson
+
+- name: Alexander Konovalov
+  affiliation: University of St Andrews
+
+- name: Iryna Raievska
+  affiliation: Institute of Mathematics of National Academy of Sciences of Ukraine
+
+- name: Maryna Raievska
+  affiliation: Institute of Mathematics of National Academy of Sciences of Ukraine
+
+- name: Markus Pfeiffer
+  affiliation: ArangoDB
+
+- name: Anna Sucker
+  affiliation: RWTH Aachen University
+
+- name: Lucas Wollenhaupt
+  affiliation: RWTH Aachen University
+
+- name: Sergio Siccha
+  affiliation: University of Siegen
+
+- name: Dima Pasechnik
+  affiliation: University of Oxford
+
+- name: Dominik Bernhardt
+  affiliation: RWTH Aachen University 
+
+- name: Daniel Rademacher
+  affiliation: RWTH Aachen University
+
+- name: Friedrich Rober 
+  affiliation: RWTH Aachen University
+
+- name: Deepshikha Chatterjee
+  affiliation: Ambedkar University Delhi
