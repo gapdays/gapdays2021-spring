@@ -12,6 +12,6 @@ description:      '15<sup>th</sup> to 19<sup>th</sup> February 2021'
 location:         'Virtual/Remote/Home Offices'
 url:              https://www.gapdays.de
 baseurl:          /gapdays2021-spring
-
+email:            gapdays2021-spring@gapdays.de
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]

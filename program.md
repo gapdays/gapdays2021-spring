@@ -13,8 +13,10 @@ and
 **Release and CI tools used in GAP**
 
 
-Please note the resources that need to be obtained **BEFORE** the workshop are laid out on [the preparation page ]({{ site.baseurl }}/preparation).
-This note will also be updated as the workshop nears with more information and details about the various work packages.
+Please note the resources that need to be obtained **BEFORE** the workshop are
+laid out on [the preparation page]({{ site.baseurl }}/preparation). This note
+will also be updated as the workshop nears with more information and details
+about the various work packages.
 
 
 ## Schedule

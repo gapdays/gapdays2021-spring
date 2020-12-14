@@ -2,7 +2,6 @@
 layout: page
 title: Registration
 registration_state: notyet
-email: gapdays2021-spring@gapdays.de
 ---
 
 {% case page.registration_state %}
@@ -15,9 +14,9 @@ email: gapdays2021-spring@gapdays.de
 {% when 'open' %}
 <p class="message">Registration is open.</p>
 
-To register please send an email to [gapdays2021-spring@gapdays.de](mailto:gapdays2021-spring@gapdays.de) with the following contents.
+To register please send an email to [{{site.email}}](mailto:{{site.email}}) with the following contents.
 ```
-Registration for GAP Days 2021 Spring
+Registration for {{site.title}}
 
 Name:
 Affiliation:
@@ -28,7 +27,7 @@ Date of Departure:
 <p>
 If you have any questions
 regarding registration, or in general, feel free to
-<a href="mailto:{{page.email}}">contact us via email</a>.
+<a href="mailto:{{site.email}}">contact us via email</a>.
 </p>
 
 {% endcase %}
