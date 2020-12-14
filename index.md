@@ -54,4 +54,4 @@ page]({{ site.baseurl }}/location). -->
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by
-email at [gapdays2020-spring@gapdays.de](mailto:gapdays2020-spring@gapdays.de).
+email at [gapdays2021-spring@gapdays.de](mailto:gapdays2021-spring@gapdays.de).

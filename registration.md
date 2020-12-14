@@ -15,9 +15,9 @@ email: gapdays2021-spring@gapdays.de
 {% when 'open' %}
 <p class="message">Registration is open.</p>
 
-To register please send an email to [gapdays2020-spring@gapdays.de](mailto:gapdays2020-spring@gapdays.de) with the following contents.
+To register please send an email to [gapdays2021-spring@gapdays.de](mailto:gapdays2021-spring@gapdays.de) with the following contents.
 ```
-Registration for GAP Days 2020 Spring
+Registration for GAP Days 2021 Spring
 
 Name:
 Affiliation:
