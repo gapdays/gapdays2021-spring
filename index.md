@@ -33,7 +33,7 @@ While we do not want to discourage non-GAP-core programmers, we want to underlin
 There will be talks and some "hands-on" sessions to give everyone the opportunity to learn the tools needed that will be most likely utilised in the release process.
 For anyone who wants to attend but feels out of depth in this, we will be looking for testers and other higher level tasks.
 
-GAP Days Spring 2020 is organised by
+GAP Days Spring 2021 is organised by
 
 * [Ruth Hoffmann](https://rh347.host.cs.st-andrews.ac.uk)
 * [Max Horn](https://www.quendi.de/en/math)
@@ -47,7 +47,7 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 
 ## Registering and visiting
 
-GAP Days Spring 2029 will take place at the {{ site.location }}. Information
+GAP Days Spring 2021 will take place at the {{ site.location }}. Information
 about the exact location can be found on [the location
 page]({{ site.baseurl }}/location). -->
 
