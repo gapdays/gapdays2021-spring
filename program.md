@@ -21,8 +21,16 @@ about the various work packages.
 
 ## Schedule
 The tentative schedule is
-- **Monday, 15th February 2021** Release/CI/CodeCov tools talks and hands-on workshops (this can be also applicable to package authors)
-- **Tuesday, 16th February 2021** How should the release process look like talks/discussions, and first setups of workflow
+( ALL TIMES ARE UTC)
+- **Monday, 15th February 2021** GitHub Day
+  - 9:30: **Opening of the GAP Days**
+  - 9:35: Getting the various systems up.
+  - 9:45: Talks about various GitHub tools, such as GitHub actions, Profiling in GitHub, CodeCov.
+  - 12:00: Lunch time and offline exercise time
+  - 14:00: Hands-on demonstration of GitHub Actions, and discussions/troubleshooting of other tools.
+- **Tuesday, 16th February 2021**  GAP Release discussion Day
+  - 10:00: Discussion of release process and game plan for the week.
+  - 12:15: Talk on current processes and steps that need to be ported.
 - **Wednesday, 17th February 2021** Work on release process
 - **Thursday, 18th February 2021** Work on release process
 - **Friday, 19th February 2021** Finalising work on release process, and release a new version of GAP using that system.
