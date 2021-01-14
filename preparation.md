@@ -17,6 +17,6 @@ If you do not have access to this slack please [email us](mailto:{{site.email}})
 - if you are interested in OSCAR or the GAP-Julia integration, perhaps also install Julia (and OSCAR) beforehand; see <https://oscar.computeralgebra.de/install/> for hints how to do that (in fact this will also give you a GAP installation)
 
 - consider reading up on some things:
-    - [Max' notes on GAP infrastructure](https://hackmd.io/EUtMx_2mRTaIYYlWSaVI6A)
+    - [Max's notes on GAP infrastructure](https://hackmd.io/EUtMx_2mRTaIYYlWSaVI6A)
     - [Some existing GAP release instructions and code](https://github.com/gap-system/gap-distribution/tree/master/DistributionUpdate)
     - [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions)
