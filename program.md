@@ -28,7 +28,7 @@ The tentative schedule is
   - 9:45: Brief talks about...
       - GitHub Actions (Wilf Wilson)
       - Doing GAP package CI with GitHub Actions (Sergio Siccha)
-      - Profiling GAP code (TBA)
+      - Profiling GAP code (Chris Jefferson)
       - Code coverage tracking with [Codecov](https://codecov.io) (Max Horn)
   - 12:00: Lunch time and offline exercise time
   - 14:00: Hands-on demonstration of GitHub Actions, and discussions/troubleshooting of other tools.
