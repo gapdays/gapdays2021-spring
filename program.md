@@ -25,7 +25,11 @@ The tentative schedule is
 - **Monday, 15th February 2021** GitHub Day
   - 9:30: **Opening of the GAP Days**
   - 9:35: Getting the various systems up.
-  - 9:45: Talks about various GitHub tools, such as GitHub actions, Profiling in GitHub, CodeCov.
+  - 9:45: Brief talks about...
+      - GitHub Actions
+      - Doing GAP package CI with GitHub Actions
+      - Profiling in GitHub
+      - Code coverage tracking with [Codecov](https://codecov.io).
   - 12:00: Lunch time and offline exercise time
   - 14:00: Hands-on demonstration of GitHub Actions, and discussions/troubleshooting of other tools.
 - **Tuesday, 16th February 2021**  GAP Release discussion Day
