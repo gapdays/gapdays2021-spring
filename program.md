@@ -21,7 +21,7 @@ about the various work packages.
 
 ## Schedule
 The tentative schedule is
-( ALL TIMES ARE UTC)
+(ALL TIMES ARE UTC)
 - **Monday, 15th February 2021** GitHub Day
   - 9:30: **Opening of the GAP Days**
   - 9:35: Getting the various systems up.
