@@ -14,14 +14,15 @@ registration_state: open
 {% when 'open' %}
 <p class="message">Registration is open.</p>
 
+In order to participate in this meeting, please register with us, even if you only
+want to join for parts of the meeting.
+
 To register please send an email to [{{site.email}}](mailto:{{site.email}}) with the following contents.
 ```
 Registration for {{site.title}}
 
-Name:
-Affiliation:
-Date of Arrival:
-Date of Departure:
+Name: ...
+Affiliation: ...
 ```
 
 <p>
