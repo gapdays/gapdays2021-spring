@@ -2,7 +2,7 @@
 layout: page
 title: Location
 ---
-These GAP Days will be fully virtual.
+These GAP Days will be fully remote / online / virtual.
 
 <!--
 We currently plan to use the following tools:
