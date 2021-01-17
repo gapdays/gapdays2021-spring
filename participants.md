@@ -3,8 +3,8 @@ layout: page
 title: Participants
 ---
 
-<ol>
-{% for p in site.data.participants %}
+<ol>{% assign participants = site.data.participants | sort: "name" %}
+{% for p in participants %}
   <li>
     <strong>{{ p.name }}</strong>
     {% if p.affiliation != null %} ({{ p.affiliation }}){% endif %}

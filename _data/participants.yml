@@ -1,7 +1,25 @@
 - name: Ruth Hoffmann
-  affiliation: University of St Andrews
+  affiliation: University of St Andrews, Scotland
 
 - name: Max Horn
-  affiliation: TU Kaiserslautern
+  affiliation: TU Kaiserslautern, Germany
   links:
     "GitHub: fingolfin": https://github.com/fingolfin
+
+- name: Wilf Wilson
+  affiliation: University of St Andrews, Scotland
+
+- name: Pedro A. García-Sánchez
+  affiliation: Universidad de Granada, España
+
+- name: Sergio Siccha
+  affiliation: TU Kaiserslautern, Germany
+
+- name: Leonard Soicher
+  affiliation: Queen Mary University of London, England
+
+- name: Awss Alogaidi
+  affiliation: Middle Technical University, Iraq
+
+- name: Frédéric Bertrand
+  affiliation: Troyes Technology University, France
