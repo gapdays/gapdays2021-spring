@@ -30,8 +30,8 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
     - *"Profiling GAP code"* (Chris Jefferson)
     - *"Code coverage tracking with [Codecov](https://codecov.io)"* (Max Horn)
   - 11:30 -- 12:30 GAP-Julia
-    - *TBA* (Thomas Breuer) 
     - *"An introduction to [OSCAR](https://oscar.computeralgebra.de) with a focus on the GAP-Julia integration"* (Max Horn)
+    - *"The GAP package SingerAlg -- using the GAP-Julia integration"* (Thomas Breuer)
   - 12:30 -- 14:00 Lunch time and offline exercise time
   - 14:00 -- 16:00 Hands-on, discussions etc for all Github, Codecov and GAP-Julia related exercises and questions.
 - **Tuesday, 16th February 2021**  GAP Release discussion Day
