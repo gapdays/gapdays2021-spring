@@ -21,17 +21,19 @@ about the various work packages.
 
 ## Schedule
 The tentative schedule is as follows; note that **all time are UTC** (so e.g. our German visitors should add 1 hour)
-- **Monday, 15th February 2021** GitHub Day
-  - 9:30: **Opening of the GAP Days**
-  - 9:35: Getting the various systems up.
-  - 9:45: Brief talks about...
-      - *"GitHub Actions"* (Wilf Wilson)
-      - *"Doing GAP package CI with GitHub Actions"* (Sergio Siccha)
-      - *"Profiling GAP code"* (Chris Jefferson)
-      - *"Code coverage tracking with [Codecov](https://codecov.io)"* (Max Horn)
-  - 12:00: Lunch time and offline exercise time
-  - 13:30: *"An introduction to [OSCAR](https://oscar.computeralgebra.de) with a focus on the GAP-Julia integration"* (Max Horn)
-  - 14:00: Hands-on demonstration of GitHub Actions, and discussions/troubleshooting of other tools.
+- **Monday, 15th February 2021** GitHub & GAP-Julia Day
+  - 9:00: **Opening of GAPDays**  Welcome and setup
+  - 9:10 -- 10:10 GitHub Actions 
+    - *"GitHub Actions"* (Wilf Wilson)
+    - *"Doing GAP package CI with GitHub Actions"* (Sergio Siccha)
+  - 10:20 -- 11:20 Profiling and Code Coverage in GAP
+    - *"Profiling GAP code"* (Chris Jefferson)
+    - *"Code coverage tracking with [Codecov](https://codecov.io)"* (Max Horn)
+  - 11:30 -- 12:30 GAP-Julia
+    - *TBA* (Thomas Breuer) 
+    - *"An introduction to [OSCAR](https://oscar.computeralgebra.de) with a focus on the GAP-Julia integration"* (Max Horn)
+  - 12:30 -- 14:00 Lunch time and offline exercise time
+  - 14:00 -- 16:00 Hands-on, discussions etc for all Github, Codecov and GAP-Julia related exercises and questions.
 - **Tuesday, 16th February 2021**  GAP Release discussion Day
   - 10:00: Discussion of release process and making a plan for the rest of the week.
   - 12:15: Talk: *"How a GAP release is made"* (Alexander Konovalov)<br>
