@@ -33,7 +33,7 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
   - 13:30: *"An introduction to [OSCAR](https://oscar.computeralgebra.de) with a focus on the GAP-Julia integration"* (Max Horn)
   - 14:00: Hands-on demonstration of GitHub Actions, and discussions/troubleshooting of other tools.
 - **Tuesday, 16th February 2021**  GAP Release discussion Day
-  - 10:00: Discussion of release process and game plan for the week.
+  - 10:00: Discussion of release process and making a plan for the rest of the week.
   - 12:15: Talk: *"How a GAP release is made"* (Alexander Konovalov)<br>
            This will help participants understand the current processes, with an emphasis
            on steps that are essential and need to be ported to the new release system.
