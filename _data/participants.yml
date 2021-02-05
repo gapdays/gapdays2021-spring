@@ -3,8 +3,8 @@
 
 - name: Max Horn
   affiliation: TU Kaiserslautern, Germany
-  links:
-    "GitHub: fingolfin": https://github.com/fingolfin
+  #links:
+  #  "GitHub: fingolfin": https://github.com/fingolfin
 
 - name: Wilf Wilson
   affiliation: University of St Andrews, Scotland
@@ -36,10 +36,10 @@
 - name: Thomas Breuer
   affiliation: RWTH Aachen, Germany
 
-- name:  Iryna Raievska
+- name: Iryna Raievska
   affiliation: Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine
 
-- name:  Maryna Raievska
+- name: Maryna Raievska
   affiliation: Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine
 
 - name: Joe Moore
@@ -61,7 +61,7 @@
   affiliation: RWTH Aachen, Germany
 
 - name: Gábor P. Nagy
-  affiliation: University of Szeged/Budapest University of Technology, Hungary\
+  affiliation: University of Szeged/Budapest University of Technology, Hungary
 
 - name: Lucas Wollenhaupt
   affiliation: RWTH Aachen, Germany
