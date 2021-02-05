@@ -25,7 +25,7 @@ Please visit [gapdays.de](https://www.gapdays.de) for a list of all GAP Days.
 
 ## {{ site.title }}
 
-These GAP Days will focus on automation (introduction to GitHub Actions, settings up continuous integration tests and code coverage reporting, etc.) and an overhaul of the GAP release process (hopefully culminating in a new GAP release).
+These GAP Days will focus on automation (introduction to GitHub Actions, setting up continuous integration tests and code coverage reporting, etc.) and an overhaul of the GAP release process (hopefully culminating in a new GAP release).
 
 We will also include a small number of talks during the GAP Days about the GAP infrastructure and functionalities of GitHub.
 
