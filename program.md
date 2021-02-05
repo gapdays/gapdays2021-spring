@@ -41,6 +41,7 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
            on steps that are essential and need to be ported to the new release system.
 - **Wednesday, 17th February 2021** Work on release process
 - **Thursday, 18th February 2021** Work on release process
+  - 19:00(ish) Virtual Pub
 - **Friday, 19th February 2021** Finalising work on release process, and release a new version of GAP using that system.
 
 <!-- 
