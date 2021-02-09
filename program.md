@@ -18,9 +18,8 @@ laid out on [the preparation page]({{ site.baseurl }}/preparation). This note
 will also be updated as the workshop nears with more information and details
 about the various work packages.
 
-<!-- All scheduled talks are going to be held in [BigBlueButton](https://bbb.rlp.net/b/hor-foe-hdv-ahz).
+All scheduled talks are going to be held in [BigBlueButton](https://bbb.rlp.net/b/hor-foe-hdv-ahz).
 The room code will be sent to participants.
--->
 
 ## Schedule
 The tentative schedule is as follows; note that **all time are UTC** (so e.g. our German visitors should add 1 hour)
