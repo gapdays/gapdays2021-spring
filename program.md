@@ -42,9 +42,12 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
            This will help participants understand the current processes, with an emphasis
            on steps that are essential and need to be ported to the new release system.
 - **Wednesday, 17th February 2021** Work on release process
+  - 9:00: Discussions and plan for the day
 - **Thursday, 18th February 2021** Work on release process
+  - 9:00: Discussions and plan for the day
   - 19:00(ish) Virtual Pub
 - **Friday, 19th February 2021** Finalising work on release process, and release a new version of GAP using that system.
+  - 9:00: Discussions and plan for the day
 
 <!-- 
 We will have the introductory talks to the various workpackages on Monday and Tuesday, overall the video conference will be running throughout the conference and any check-ins will be done through it or via slack.
