@@ -26,7 +26,7 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
 - **Monday, 15th February 2021** GitHub & GAP-Julia Day
   - 9:00: **Opening of GAPDays**  Welcome and setup
   - 9:10 -- 10:10 GitHub Actions 
-    - *"GitHub Actions"* (Wilf Wilson)
+    - *"An introduction to GitHub Actions"* (Wilf Wilson)
     - *"Doing GAP package CI with GitHub Actions"* (Sergio Siccha)
   - 10:20 -- 11:20 Profiling and Code Coverage in GAP
     - *"Profiling GAP code"* (Chris Jefferson)
