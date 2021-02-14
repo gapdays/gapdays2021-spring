@@ -45,7 +45,7 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
   - 9:00: Discussions and plan for the day
 - **Thursday, 18th February 2021** Work on release process
   - 9:00: Discussions and plan for the day
-  - 19:00(ish) Virtual Pub
+  - 19:00(ish) Virtual Pub (in [gather.town](https://gather.town/app/KgZHhZP9v7IHMYDX/gapdayspub), participants were sent password.)
 - **Friday, 19th February 2021** Finalising work on release process, and release a new version of GAP using that system.
   - 9:00: Discussions and plan for the day
 
