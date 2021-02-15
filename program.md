@@ -37,7 +37,7 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
     - *"An introduction to [OSCAR](https://oscar.computeralgebra.de) with a focus on the GAP-Julia integration"* (Max Horn)
     - *"The GAP package SingerAlg -- using the GAP-Julia integration"* (Thomas Breuer) ([More information and slides](http://www.math.rwth-aachen.de/~Thomas.Breuer/gapdays2021/))
   - 12:30 -- 14:00 Lunch time and offline exercise time
-  - 14:00 -- 16:00 Hands-on, discussions etc for all Github, Codecov and GAP-Julia related exercises and questions.
+  - 14:00 -- 16:00 Hands-on, discussions etc for all Github, Codecov and GAP-Julia related exercises and questions. [In gather.town](https://gather.town/app/VH8AqAKh79qp1cdJ/gapdaysHandsOn)
 - **Tuesday, 16th February 2021**  GAP Release discussion Day
   - 10:00: Discussion of release process and making a plan for the rest of the week.
   - 12:15: Talk: *"How a GAP release is made"* (Alexander Konovalov)<br>
