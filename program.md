@@ -29,6 +29,7 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
     - *"An introduction to GitHub Actions"* (Wilf Wilson)
       ([Slides]({{ site.baseurl }}/slides/wilf-wilson.pdf))
     - *"Doing GAP package CI with GitHub Actions"* (Sergio Siccha)
+      ([Slides](https://ssiccha.github.io/21-gapdays-gap-actions/))
   - 10:20 -- 11:20 Profiling and Code Coverage in GAP
     - *"Profiling GAP code"* (Chris Jefferson)
     - *"Code coverage tracking with [Codecov](https://codecov.io)"* (Max Horn)
