@@ -21,6 +21,8 @@ about the various work packages.
 All scheduled talks are going to be held in [BigBlueButton](https://bbb.rlp.net/b/hor-foe-hdv-ahz).
 The room code will be sent to participants.
 
+For **gather.town** all participants have been sent the passwords for the rooms.
+
 ## Schedule
 The tentative schedule is as follows; note that **all time are UTC** (so e.g. our German visitors should add 1 hour)
 - **Monday, 15th February 2021** GitHub & GAP-Julia Day
@@ -44,12 +46,15 @@ The tentative schedule is as follows; note that **all time are UTC** (so e.g. ou
            This will help participants understand the current processes, with an emphasis
            on steps that are essential and need to be ported to the new release system.
 - **Wednesday, 17th February 2021** Work on release process
-  - 9:00: Discussions and plan for the day
+  - 9:00: Discussions and plan for the day -- Standup style in [gather.town](https://gather.town/app/nVLGg495C43fTrka/GAPDaysWorkspace)
+  - 16:00: End of Day standup in [gather.town](https://gather.town/app/nVLGg495C43fTrka/GAPDaysWorkspace)
 - **Thursday, 18th February 2021** Work on release process
-  - 9:00: Discussions and plan for the day
+  - 9:00: Discussions and plan for the day -- Standup style in [gather.town](https://gather.town/app/nVLGg495C43fTrka/GAPDaysWorkspace)
+  - 16:00: End of Day standup in [gather.town](https://gather.town/app/nVLGg495C43fTrka/GAPDaysWorkspace)
   - 19:00(ish) Virtual Pub (in [gather.town](https://gather.town/app/KgZHhZP9v7IHMYDX/gapdayspub), participants were sent password.)
 - **Friday, 19th February 2021** Finalising work on release process, and release a new version of GAP using that system.
-  - 9:00: Discussions and plan for the day
+  - 9:00: Discussions and plan for the day -- Standup style in [gather.town](https://gather.town/app/nVLGg495C43fTrka/GAPDaysWorkspace)
+  - 16:00(ish): End of GAP Days wrap up in [gather.town](https://gather.town/app/nVLGg495C43fTrka/GAPDaysWorkspace)
 
 <!-- 
 We will have the introductory talks to the various workpackages on Monday and Tuesday, overall the video conference will be running throughout the conference and any check-ins will be done through it or via slack.
